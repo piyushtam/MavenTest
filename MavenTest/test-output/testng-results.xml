@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="100" started-at="2020-12-20T13:31:14Z" finished-at="2020-12-20T13:31:14Z">
+    <groups>
+    </groups>
+    <test name="first test" duration-ms="33" started-at="2020-12-20T13:31:14Z" finished-at="2020-12-20T13:31:14Z">
+      <class name="testcases.FirstTest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:testcases.FirstTest@23ceabc1]" name="firstTest" duration-ms="8" started-at="2020-12-20T13:31:14Z" finished-at="2020-12-20T13:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- testcases.FirstTest -->
+    </test> <!-- first test -->
+    <test name="second test" duration-ms="5" started-at="2020-12-20T13:31:14Z" finished-at="2020-12-20T13:31:14Z">
+      <class name="testcases.SecondTest">
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:testcases.SecondTest@29ee9faa]" name="secondTest" duration-ms="2" started-at="2020-12-20T13:31:14Z" finished-at="2020-12-20T13:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- testcases.SecondTest -->
+    </test> <!-- second test -->
+    <test name="third test" duration-ms="4" started-at="2020-12-20T13:31:14Z" finished-at="2020-12-20T13:31:14Z">
+      <class name="testcases.ThirdTest">
+        <test-method status="PASS" signature="thirdTest()[pri:0, instance:testcases.ThirdTest@2b98378d]" name="thirdTest" duration-ms="2" started-at="2020-12-20T13:31:14Z" finished-at="2020-12-20T13:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+      </class> <!-- testcases.ThirdTest -->
+    </test> <!-- third test -->
+    <test name="forth test" duration-ms="5" started-at="2020-12-20T13:31:14Z" finished-at="2020-12-20T13:31:14Z">
+      <class name="testcases.ForthTest">
+        <test-method status="PASS" signature="forthTest()[pri:0, instance:testcases.ForthTest@d8355a8]" name="forthTest" duration-ms="2" started-at="2020-12-20T13:31:14Z" finished-at="2020-12-20T13:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forthTest -->
+      </class> <!-- testcases.ForthTest -->
+    </test> <!-- forth test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ 
+  <test name="first test">
+    <classes>
+      
+      <class name="testcases.FirstTest"/>
+     
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  <test name="second test">
+    <classes>
+     
+      <class name="testcases.SecondTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="third test">
+    <classes>
+      
+      <class name="testcases.ThirdTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="forth test">
+    <classes>
+      <class name="testcases.ForthTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
